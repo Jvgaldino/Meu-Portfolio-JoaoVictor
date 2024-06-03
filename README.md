@@ -1,2 +1,2 @@
 # Meu-Portfolio
- Meu portfolio , aqui você tem acesso atodas as minhas redes sociais.
+ Meu portfolio , aqui você tem acesso a todas as minhas redes sociais.
